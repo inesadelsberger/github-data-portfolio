@@ -1,1 +1,5 @@
-
+title: Ines Adelsberger
+#logo: /relative path/picture.png
+#description: text below image
+#show downloads: true
+theme: jekyll-theme-minimal
